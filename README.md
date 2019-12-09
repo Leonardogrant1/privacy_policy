@@ -57,15 +57,15 @@ WERDEN IHRE PERSONENBEZOGENEN DATEN VERARBEITET, UM DIREKTWERBUNG ZU BETREIBEN, 
 
 <p>Im Falle von Verstößen gegen die DSGVO steht den Betroffenen ein Beschwerderecht bei einer Aufsichtsbehörde zu. Das Beschwerderecht besteht unbeschadet anderweitiger verwaltungsrechtlicher oder gerichtlicher Rechtsbehelfe.<br>
 Die zuständige Datenschutzbehörde für die verantwortliche Stelle ist: <br>
-Der Landesbeauftragte für den Datenschutz und die Informationsfreiheit Rheinland-Pfalz <br>
-Prof. Dr. Dieter Kugelmann  <br>
-Hintere Bleiche 34 <br>
-55116 Mainz <br>
+Der Hessische Beauftragte für Datenschutz und Informationsfreiheit <br>
+Prof. Dr. Michael Ronellenfitsch  <br>
+Gustav-Stresemann-Ring 1 <br>
+65189 Wiesbaden <br>
 <br>
-Telefon: +49 (0) 6131 208-2449 <br>
-Telefax: +49 (0) 6131 208-2497 <br>
-Webseite: https://www.datenschutz.rlp.de/  <br>
-E-Mail: poststelle(at)datenschutz.rlp.de  <br>
+Telefon: 0611-1408 0 <br>
+Telefax: 0611-1408 611 <br>
+Webseite: https://www.datenschutz.hessen.de/  <br>
+E-Mail: poststelle(at)datenschutz.hessen.de  <br>
   <br>
 <h4><strong>4. Auskunft, Löschung und Berichtigung</strong></h4> <br>
 <br>
